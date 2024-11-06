@@ -1,0 +1,12 @@
+{
+  "name": "mastermind-solver-js",
+  "version": "1.0.0",
+  "main": "mastermind.js",
+  "author": "Dimitri Bohlender",
+  "scripts": {
+    "test": "node api_test.mjs"
+  },
+  "license": "MIT",
+  "description": "A SAT-based mastermind solver",
+  "homepage": "https://github.com/bohlender/mastermind-solver"
+}

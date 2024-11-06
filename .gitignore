@@ -1,0 +1,7 @@
+.idea
+cmake-build-debug
+cmake-build-release
+build
+
+mastermind-solver-js/mastermind.js
+mastermind-solver-js/mastermind.wasm
