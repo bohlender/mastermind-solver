@@ -2,7 +2,7 @@ This package provides JavaScript bindings for [a SAT-based Mastermind solver](ht
 
 After loading, the WASM module instance provides the methods of the [native API](https://github.com/bohlender/mastermind-solver/blob/master/mastermind-solver-cpp/src/api.h) in addition to `malloc` and `free`:
 ```javascript
-import loadWasm from 'mastermind-solver-js'
+import loadWasm from 'mastermind-solver-wasm'
 
 const instance = await loadWasm()
 

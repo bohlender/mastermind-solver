@@ -1,5 +1,5 @@
 {
-  "name": "mastermind-solver-js",
+  "name": "mastermind-solver-wasm",
   "version": "1.0.0",
   "main": "mastermind.js",
   "author": "Dimitri Bohlender",
